@@ -1,10 +1,7 @@
 # SWAT-MAPS
 
-Swat Maps was created by Tina Chen, Mehtap Yercel, Rain White, and Michael Ugwe.
-
-[Our Google Drive](https://drive.google.com/drive/folders/11oPSvsb_HE227QErP4SnQbNofv0iKrJ5)
-
-[Our Project Proposal](https://docs.google.com/document/d/1FhnHnULdbXBe6lAg1_5QOUKBJQ0qaT9MjsXJVjqskIA/edit?usp=sharing)
+Swat Maps is a web application aimed to help the Swarthmore College Community navigate campus. It does so by providing an interactive map that allows for searching of academic buildingss and room and images of their entrances.
+This project was created by Tina Chen, Mehtap Yercel, Rain White, and Michael Ugwe with the guidance of Michael Wehar. 
 
 Database:
 Our database is called database.db and has 2 tables:
