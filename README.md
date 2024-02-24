@@ -12,3 +12,7 @@ Our database is called database.db and has 2 tables:
     1. locations(name text, full_name text, description text)
 
     2. feedback(id int IDENTITY(1,1) PRIMARY KEY, input text)
+
+
+Link to original repo:
+https://github.swarthmore.edu/tchen7/SWAT-MAPS
